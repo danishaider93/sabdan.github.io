@@ -1,0 +1,11 @@
+{
+  "name": "sabdan",
+  "version": "1.0.0",
+  "description": "simple application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danishaider",
+  "license": "ISC"
+}
